@@ -1,0 +1,13 @@
+.guest-img {
+    width: 100%;
+    height: 100%;
+    border: 4px solid rgb(14, 14, 51);
+}
+
+.row {
+    justify-content: center !important;
+}
+
+.col-10 {
+    margin-bottom: 20px;
+}
